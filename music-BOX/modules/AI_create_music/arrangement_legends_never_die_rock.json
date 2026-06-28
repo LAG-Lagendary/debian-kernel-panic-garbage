@@ -1,0 +1,6011 @@
+{
+    "metadata": {
+        "title": "Epic Trailer Theme",
+        "composer": "AI Composer",
+        "tempo": 120,
+        "key": "D minor",
+        "time_signature": "4/4"
+    },
+    "events": [
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,F3,A3",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,E3,G3",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,D3,F3",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,A2,C3",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,F3,A3",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,E3,G3",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,D3,F3",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,A2,C3",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,F3,A3",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,E3,G3",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,D3,F3",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,A2,C3",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,F3,A3",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,E3,G3",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,D3,F3",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,A2,C3",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 1.0,
+            "velocity": 80
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G#1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G#1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G#1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G#1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G#1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G#1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G#1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G#1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 0.5,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 1.0,
+            "velocity": 95
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "A2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "A2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "A2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "A2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "G2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "G2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "G2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "G2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "A2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "A2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "A2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "A2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "G2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "G2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "G2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "G2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 0.25,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 0.5,
+            "velocity": 105
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "A#1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "A#1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "A#1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "A#1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "G1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 1.0,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 0.5,
+            "velocity": 120
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 4.0,
+            "velocity": 115
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 1.0,
+            "velocity": 70
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 3.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 4.0,
+            "velocity": 70
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 4.0,
+            "velocity": 70
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 4.0,
+            "velocity": 70
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 4.0,
+            "velocity": 70
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 1.0,
+            "velocity": 60
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 3.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 4.0,
+            "velocity": 70
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 4.0,
+            "velocity": 70
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 4.0,
+            "velocity": 70
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 4.0,
+            "velocity": 70
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 1.0,
+            "velocity": 65
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 3.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 4.0,
+            "velocity": 65
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 4.0,
+            "velocity": 65
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 4.0,
+            "velocity": 65
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 4.0,
+            "velocity": 65
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 1.0,
+            "velocity": 55
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 3.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 4.0,
+            "velocity": 65
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 4.0,
+            "velocity": 65
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 4.0,
+            "velocity": 65
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 4.0,
+            "velocity": 65
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 1.0,
+            "velocity": 60
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 3.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 1.0,
+            "velocity": 50
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 3.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 4.0,
+            "velocity": 60
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "C1",
+            "duration": 1.0,
+            "velocity": 55
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 3.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "D2",
+            "duration": 4.0,
+            "velocity": 55
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "D3,A3",
+            "duration": 4.0,
+            "velocity": 55
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "C2",
+            "duration": 4.0,
+            "velocity": 55
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "C3,G3",
+            "duration": 4.0,
+            "velocity": 55
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "note",
+            "part": "Drums",
+            "pitch": "D1",
+            "duration": 1.0,
+            "velocity": 45
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 3.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "Bb1",
+            "duration": 4.0,
+            "velocity": 55
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "Bb2,F3",
+            "duration": 4.0,
+            "velocity": 55
+        },
+        {
+            "type": "bar_start",
+            "part": "Global",
+            "duration": 0
+        },
+        {
+            "type": "rest",
+            "part": "Drums",
+            "duration": 4.0
+        },
+        {
+            "type": "note",
+            "part": "Bass Guitar",
+            "pitch": "F1",
+            "duration": 4.0,
+            "velocity": 55
+        },
+        {
+            "type": "chord",
+            "part": "Rhythm Guitar",
+            "pitch": "F2,C3",
+            "duration": 4.0,
+            "velocity": 55
+        }
+    ]
+}

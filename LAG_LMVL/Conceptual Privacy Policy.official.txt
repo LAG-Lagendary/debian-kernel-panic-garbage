@@ -1,0 +1,60 @@
+User Data Privacy Policy
+Date: August 12, 2025 OFFICIAL
+
+PREAMBLE
+
+This "User Data Privacy Policy" (the "Policy") is an integral part of our commitment to uncompromising protection of your privacy. We created [Software Name] with one goal in mind: to ensure your complete privacy and sovereignty over your data. This Policy is uncompromising and sets the strictest rules for handling information. Fuck everyone who thinks otherwise.
+
+ARTICLE 1: ABSOLUTE COMMITMENT TO PRIVACY
+
+Privacy by Design: All of your data that can be identified as private (e.g. personal data, content you create, activity history) MUST be immediately encrypted on your device prior to storage, processing, or transmission. This is a fundamental and inviolable principle, the violation of which is a direct path to criminal liability.
+
+The Key is in Your Hands: The key (or password) to decrypt your private data is completely and undividedly controlled by you. It is never stored, transferred or made available to us, our affiliates or any third-party services. We cannot access your encrypted data under any circumstances without your direct, active and conscious action (i.e., entering the password/key directly by you). Any attempt to access encrypted data without your permission is a criminal offense and will be prosecuted to the fullest extent of the law.
+
+Data Integrity: Your privacy is an absolute priority for us. Any infringement on it, including attempts at unauthorized access, viewing, copying or manipulation of your data, will be regarded as a grave crime, entailing immediate and ruthless prosecution, up to and including criminal liability and imprisonment.
+
+ARTICLE 2: TYPES OF COLLECTED DATA AND STRICT RULES
+
+Private data (not to be collected without encryption with the user key):
+
+Any data that can be associated with your identity or your confidential activity in the application (e.g. notes, personal documents, messages, photos, history of using functions that you define as private).
+
+This data is always and exclusively encrypted with your key on your device. We do not receive it in clear text.
+
+Non-private data (strictly anonymized technical data):
+
+Definition: This is data that is absolutely necessary for the functioning of the software, improving its performance and diagnosing errors. This data is maximally and irreversibly anonymized, i.e. it cannot be associated with your identity.
+
+Examples (only in anonymized form): device type, operating system version, aggregated data on the use of functions (e.g. the number of times a function is launched, without reference to a specific user), error reports without personal data.
+
+Purpose of collection: exclusively for improving the stability and performance of the software, as well as for usage analytics, but ONLY in anonymized form, without the possibility of any identification.
+
+Prohibition: The collection of any data that could be classified as private, without encryption with the user's key, is strictly prohibited.
+
+ARTICLE 3: DATA PROCESSING AND DELETION
+
+Data processing:
+
+All private data is processed exclusively on your device in encrypted form.
+
+Non-private data, if collected, is processed using the strictest anonymization methods to exclude the possibility of your identification.
+
+We do not transfer your data to third-party services, with the exception of completely anonymized, aggregated technical data that does not contain any information about your identity.
+
+The right to delete data:
+
+You have the unconditional and immediate right to delete all your data - both private and non-private - from the system without the possibility of restoring it.
+
+We will provide you with the tools to completely delete your data from the application and all records associated with it.
+
+ARTICLE 4: CONSENT
+
+By using [Software Name], you MUST provide explicit, informed and unambiguous consent to this Privacy Policy. The absence of such consent makes the use of the Software impossible and unacceptable. Your consent means a full understanding and acceptance of all the above uncompromising principles.
+
+ARTICLE 5: COMPLIANCE WITH LAWS
+
+We are committed to strictly and unconditionally complying with all applicable data protection laws and regulations, including but not limited to the General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA) and other international and national privacy standards. We do not compromise on the law and the protection of your rights.
+
+[Your Name/Company Name]
+[Your Title]
+[Date]

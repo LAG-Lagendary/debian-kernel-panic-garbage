@@ -1,0 +1,39 @@
+
+{
+  "metadata": {
+    "title": "First AI Bridge Test",
+    "composer": "Project MusicXML AI",
+    "key": "C Major",
+    "time_signature": "4/4",
+    "tempo": 110
+  },
+  "events": [
+    {"type": "bar_start", "part": "Melody", "duration": 0.0},
+    {"type": "bar_start", "part": "Bass", "duration": 0.0},
+
+    // Такт 1
+    {"type": "note", "part": "Melody", "pitch": "C4", "duration": 1.0, "velocity": 90},
+    {"type": "note", "part": "Melody", "pitch": "E4", "duration": 1.0, "velocity": 90},
+    {"type": "note", "part": "Melody", "pitch": "G4", "duration": 2.0, "velocity": 95},
+
+    {"type": "note", "part": "Bass", "pitch": "C2", "duration": 4.0, "velocity": 80},
+
+    // Такт 2
+    {"type": "bar_start", "part": "Melody", "duration": 0.0},
+    {"type": "bar_start", "part": "Bass", "duration": 0.0},
+
+    {"type": "note", "part": "Melody", "pitch": "G4", "duration": 0.5, "velocity": 85},
+    {"type": "note", "part": "Melody", "pitch": "F4", "duration": 0.5, "velocity": 85},
+    {"type": "note", "part": "Melody", "pitch": "E4", "duration": 2.0, "velocity": 90},
+    {"type": "rest", "part": "Melody", "duration": 1.0},
+
+    {"type": "chord", "part": "Bass", "pitch": ["F2", "A2"], "duration": 2.0, "velocity": 75},
+    {"type": "note", "part": "Bass", "pitch": "F2", "duration": 2.0, "velocity": 70},
+
+    // Завершение (фиктивный такт, чтобы убедиться, что music21 корректно закроет файлы)
+    {"type": "bar_start", "part": "Melody", "duration": 0.0},
+    {"type": "bar_start", "part": "Bass", "duration": 0.0},
+    {"type": "rest", "part": "Melody", "duration": 4.0},
+    {"type": "rest", "part": "Bass", "duration": 4.0}
+  ]
+}

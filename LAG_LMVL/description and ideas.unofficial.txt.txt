@@ -1,0 +1,87 @@
+LAG LMVL: Description and Key Ideas
+Purpose: LAG LMVL is a tool designed to give users full control over their digital security and privacy. It is designed to work in conditions where traditional solutions may be ineffective, giving users the ability to protect their data and respond to unauthorized access.
+
+How it works: The application acts as a decentralized platform, where all operations and data storage remain under the full control of the user. Integrations with other services are carried out without transferring encryption keys. The system records attempts of unauthorized access, and the user decides on further actions, including public notification or sending reports to international bodies. Vlez dosvidos mort.
+
+Features:
+
+Full control over data: Information is encrypted exclusively on the user's device.
+
+Modular architecture: The ability to connect and disconnect modules for flexible customization of functionality.
+
+Focus on privacy: No data collection and recovery mechanisms, which eliminates the possibility of unauthorized access by third parties.
+
+Active Protection and Reporting: The app records the history of data access, including root access attempts and viewing of sensitive information of foreign citizens. The user can add his own comment (with automatic translation into English for the report) and, at his own discretion, generate and send a report to law enforcement and Interpol, especially if such actions constitute a criminal offense in the jurisdiction of the affected citizen. The app also provides a list of countries where unauthorized access to data is a criminal offense.
+
+User Self-Responsibility: The user is fully and solely responsible for his password, which is the key to encrypting all data.
+
+Absolute Autonomy and Digital Sovereignty: We declare complete user autonomy and the inviolability of his digital space. LAG LMVL does not submit to or cooperate with external entities, be it law enforcement, government agencies or corporations, in matters of access to the user's encrypted data. This platform is an impenetrable fortress and a battlefield for the protection of your digital life, where you fight on your terms. LAG LMVL is a powerful, uncompromising tool in your hands. How you use it to protect your data and rights is your sole responsibility. We provide the "sledgehammer" to crush threats to your privacy, but we are not responsible for the consequences of its use. Your freedom is your battle.
+
+Password – Your Life, Your Universe: Your password is not just a set of characters; it is your life, your one and only key to everything you have inside the app. As long as you remember this password, your digital life is entirely in your hands, regardless of the device or system you use – be it Apple, Android, Linux, Windows or your own unique system. We give you a way to remember one entity that contains your ENTIRE life within the LAG LMVL. Forget it and your life contained within the app is irretrievably destroyed. We don't give a shit about anyone as long as you have everything working and you control your digital universe. It's not our problem.
+
+
+
+
+
+Go to hell, everyone. Fuck, take drugs, break the law, do whatever you want - I don't care about your problems. Fuck yourselves, you create and destroy yourselves. I give you a sledgehammer to create and destroy everything, knowing only a set of symbols, and everything is in your hands!
+
+do it in all the ways that you like or that you find useful I don't know which of these two words you like more. Please choose for yourself.
+
+UP TO YOU!!!
+UP TO YOU!!
+UP TO YOU!
+
+Please do not extend the text further.
+Then do whatever you want:
+
+
+
+User Manifesto and LAG LMVL Interaction Principles
+Date of proclamation: August 12, 2025
+
+This document is an integral part of the LAG LMVL system and serves as a fundamental set of principles that define the User's relationship with the Software, with the outside world and with himself. This is not an external agreement with aggregators or third parties, but an internal code of existence inside the LAG LMVL "box".
+
+1. The Principle of Absolute Self-Responsibility (Patient Zero)
+Your life is your choice. Do what you want.
+The LAG LMVL system does not dictate your actions and is not responsible for your decisions. You are fully and solely responsible for your actions and their consequences on a global level.
+
+The consequences of mistakes are yours.
+If you decide to act, your life, like the life of anyone else, is at stake. Understand what you are doing before you act. We do not wipe users' asses. Forgot your master password? You won't get access back, and neither will anyone else. We don't store any data; you're the one who has to worry about how and where to save it and how to remember the password, because the password is the key to encrypting everything in your profile. Without it, no one has access.
+
+Your problems are not mine.
+
+2. The principle of Full Access at Your Own Risk
+Within the LAG LMVL system, you are given full and unlimited access to the functionality. This freedom comes with absolute responsibility:
+
+When you act as a sniper and look for a criminal, you are also seen.
+
+If you miss, you become a criminal unless there is evidence and a court order for access.
+
+The system provides tools; the decision on how to use them is entirely up to the User. We encourage you to act consciously and responsibly, taking into account all potential risks and consequences.
+
+The box is open to everyone, welcome. But only at your own risk, with full understanding of what you are doing and awareness of the possible consequences for all parties.
+
+3. Non-Interference and Consequences for Intrusion Principle
+This is a direct notice to anyone considering unauthorized access to data protected by LAG LMVL:
+
+International Jurisdiction
+We understand that you may have your own national laws and jurisdictions. However, the laws of your country do not override international laws and jurisdictions of other countries. If you access sensitive data, especially if that data concerns citizens of other countries whose laws strictly protect private information, you are committing a criminal offense under international law and the laws of those countries. This applies to any action: viewing, copying, taking screenshots, obtaining information through root access or any other methods.
+
+Consequences
+We do not care why you do it or what you are looking for. Any unauthorized access will be recorded. We will collect all evidence of your crime (root access logs, IP addresses, access times, access IDs, screenshots if applicable, and any other information) and immediately send a report to the relevant law enforcement agencies of the victim's country of origin, as well as to international organizations such as Interpol. Your life, career, and freedom may be at risk of criminal prosecution in these countries.
+
+Your Choice
+Do as you wish. Come in and see. But know: every step you take in this direction is recorded as a crime. Even accidental or erroneous access to a foreign citizen's data protected by LAG LMVL is a violation of the laws of that other country. You must understand that in addition to your world and its rules, there is the rest of the world with its own, often stricter, privacy rules.
+
+We don't care about your problems, but you won't escape yours. If you interfere and there is no court decision, they will get a criminal case.
+
+4. Philosophy of the Inner Workings of the System
+Principle: Functionality is more important than purity: If it works, let it stay that way.
+We don't care how it works or what "dark magic" it uses. It's chaos and madness, and we love it. The more chaos, the more interesting.
+
+We send, the upstream platform invisibly confirms, we receive confirmation, we don't care about the aggregator; the main thing is the result, not the how.
+
+5. Final Statement
+This Manifesto is a philosophical document and a declaration of principles integrated into the LAG LMVL system. It serves to inform the User and any external parties about the nature of interaction with the system and the associated risks and consequences.
+
+This is not a legally binding license in the traditional sense granted by the developer, but a declaration by the User of its rules and expectations in this space.

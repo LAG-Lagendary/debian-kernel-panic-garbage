@@ -1,0 +1,125 @@
+{
+    "metadata": {
+        "title": "Создай структуру глэм-метал аранжировки главной темы 'Super Mario Bros.' (Overworld Theme).",
+        "tempo": 145,
+        "key": "B",
+        "time_signature": "4/4",
+        "composer": "Иванов,%20Александр,%20Стёпкин,%20Александр,%20Иван,"
+    },
+    "events": [
+        {
+            "type": "note",
+            "part": ",",
+            "duration": 2,
+            "velocity": 70
+        },
+        {
+            "type": "note",
+            "part": ",",
+            "duration": 4,
+            "velocity": 60
+        },
+        {
+            "type": "note",
+            "part": ",",
+            "duration": 6,
+            "velocity": 60
+        },
+        {
+            "type": "note",
+            "part": ",",
+            "duration": 3,
+            "velocity": 70
+        },
+        {
+            "type": "note",
+            "part": ",",
+            "duration": 5,
+            "velocity": 60
+        },
+        {
+            "type": "note",
+            "part": ",",
+            "duration": 3,
+            "velocity": 70
+        },
+        {
+            "type": "note",
+            "part": ",",
+            "duration": 2,
+            "velocity": 70
+        },
+        {
+            "type": "note",
+            "part": ",",
+            "duration": 4,
+            "velocity": 60
+        },
+        {
+            "type": "note",
+            "part": ",",
+            "duration": 6,
+            "velocity": 60
+        },
+        {
+            "type": "note",
+            "part": ",",
+            "duration": 3,
+            "velocity": 70
+        },
+        {
+            "type": "note",
+            "part": ",",
+            "duration": 5,
+            "velocity": 60
+        },
+        {
+            "type": "note",
+            "part": ",",
+            "duration": 3,
+            "velocity": 70
+        },
+        {
+            "type": "note",
+            "part": ",",
+            "duration": 2,
+            "velocity": 70
+        },
+        {
+            "type": "note",
+            "part": ",",
+            "duration": 4,
+            "velocity": 60
+        },
+        {
+            "type": "note",
+            "part": ",",
+            "duration": 6,
+            "velocity": 60
+        },
+        {
+            "type": "note",
+            "part": ",",
+            "duration": 3,
+            "velocity": 70
+        },
+        {
+            "type": "note",
+            "part": ",",
+            "duration": 5,
+            "velocity": 60
+        },
+        {
+            "type": "note",
+            "part": ",",
+            "duration": 3,
+            "velocity": 70
+        },
+        {
+            "type": "note",
+            "part": ",",
+            "duration": 2,
+            "velocity": 70
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+
+Hello, [Developer/Team Name]!
+
+We hope you are ready for serious and fruitful cooperation.
+
+We represent [Software Name] — a project that sets new rules in software development, combining openness with full control over the core and absolute privacy for users. We invite you to become a part of it, but only on condition that you fully and unconditionally accept our rules.
+
+**What you should know about [Software Name]:**
+
+* **Kernel under Strict Control:** You can use and modify the core of our software. However, it is **strictly forbidden to fork it or copy it for independent projects**. All your improvements must be offered **only to us** as modules. Violation of this rule will result in **prompt and severe prosecution, with possible imprisonment**.
+* **Your Modules, Your Responsibility:** Offer your improvements and new features as separate modules. We will check them against our standards, and if they are acceptable, we will integrate them. **Your name will be listed** in the list of contributors. We are not responsible for your code until it is integrated, and reserve the right to reject any modules without explanation.
+* **Module License - MIT or Apache Only:** You **must** use MIT or Apache 2.0 for your contributions. Any other licenses will be rejected.
+* **User Privacy - Untouchable:** We guarantee absolute privacy of user data. All sensitive data is **encrypted with keys that are completely controlled by the users**. We **do not have access** to this data. Violation of this policy or attempt to access user data without their consent will be prosecuted.
+* **Independent Enterprise Modules:** Large companies like Google and similar organizations may offer their modules for integration. These modules will be distributed under **their own licenses**, and **all responsibility for their functionality, security and, in particular, for the handling of user data lies solely with them**. We do not bear any responsibility for the actions or consequences of using such third-party modules. **Any attempt to use their modules for unauthorized access or manipulation of user data will be regarded as a DIRECT VIOLATION, leading to the SEVERE LEGAL CONSEQUENCES, equivalent to a betrayal of trust and a violation of fundamental human rights, with criminal liability to the fullest extent of the law, without exception**. Each developer, each company, works strictly within its own area of responsibility. **DO NOT TOUCH USERS AND THEIR DATA OUTSIDE OF EXPRESS CONSENT AND SECURE ENCRYPTION. Otherwise, the consequences will be disastrous.**
+
+**How to start contributing (if you are ready for our rules):**
+
+1. Carefully read our **"Fundamental License"** and **"Privacy Policy"** on [Link to your site/repository]. You **must accept** them in full.
+
+2. Study our [developer documentation/contribution guide].
+
+3. Start creating your module, keeping in mind the strict rules.
+
+We are looking for serious developers ready to work in our conditions. Your contribution will be valuable if it meets our standards.
+
+If you have questions that do not contradict our rules, contact us at [Your email].
+
+Best regards,
+
+The [Software Name] Team
+[Link to your site/repository]

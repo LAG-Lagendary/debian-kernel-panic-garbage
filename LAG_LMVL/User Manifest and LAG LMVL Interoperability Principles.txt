@@ -1,0 +1,50 @@
+
+User Manifesto and LAG LMVL Interaction Principles
+Date of proclamation: August 12, 2025
+
+This document is an integral part of the LAG LMVL system and serves as a fundamental set of principles that define the User's relationship with the Software, with the outside world and with himself. This is not an external agreement with aggregators or third parties, but an internal code of existence inside the LAG LMVL "box".
+
+1. The Principle of Absolute Self-Responsibility (Patient Zero)
+Your life is your choice. Do what you want.
+The LAG LMVL system does not dictate your actions and is not responsible for your decisions. You are fully and solely responsible for your actions and their consequences on a global level.
+
+The consequences of mistakes are yours.
+If you decide to act, your life, like the life of anyone else, is at stake. Understand what you are doing before you act. We do not wipe users' asses. Forgot your master password? Die. You won't get access back, and no one else will. We don't store any data; you yourself must take care of how and where to save it and how to remember the password, because the password is the key to encrypting everything in your profile. Without it, no one has access.
+
+Your problems are not mine.
+
+2. The principle of Full Access at Your Own Risk
+Within the LAG LMVL system, you are provided with full and unlimited access to the functionality. This freedom comes with absolute responsibility:
+
+When you act as a sniper and look for a criminal, you are also seen.
+
+If you miss, you become a criminal, unless there is evidence and a court decision on access.
+
+The system provides tools; the decision on how to use them is entirely up to the User. We encourage you to act consciously and responsibly, taking into account all potential risks and consequences.
+
+The box is open to everyone, welcome. But only at your own risk, with full knowledge of what you are doing and awareness of the possible consequences for all parties.
+
+3. Principle of Non-Interference and Consequences for Intrusion
+This is a direct notice to anyone considering unauthorized access to data protected by LAG LMVL:
+
+International Jurisdiction
+We understand that you may have your own national laws and jurisdictions. However, the laws of your country do not override international laws and jurisdictions of other countries. If you access sensitive data, especially if that data concerns citizens of other countries whose laws strictly protect private information, you are committing a criminal offense under international law and the laws of those countries. This applies to any action: viewing, copying, taking screenshots, obtaining information through root access or any other methods.
+
+Consequences
+We do not care why you do it or what you are looking for. Any unauthorized access will be recorded. We will collect all evidence of your crime (root access logs, IP addresses, access times, access IDs, screenshots if applicable, and any other information) and immediately send a report to the relevant law enforcement agencies of the victim's country of origin, as well as to international organizations such as Interpol. Your life, career, and freedom may be at risk of criminal prosecution in these countries.
+
+Your Choice
+Do as you wish. Come in and see. But know: every step you take in this direction is recorded as a crime. Even accidental or mistaken access to a foreign citizen's data protected by LAG LMVL is a violation of the laws of that other country. You must understand that in addition to your world and its rules, there is the rest of the world with its own, often stricter, privacy rules.
+
+We don't care about your problems, but you will not escape yours. If you interfered and there is no court decision, they will get a criminal case.
+
+4. Philosophy of the Inner Workings of the System
+Principle: Functionality over purity: If it works, let it stay that way.
+We don't care how it works or what "dark magic" it uses. It's chaos and madness, and we love it. The more chaos, the more fun.
+
+We send, the upstream platform invisibly confirms, we receive confirmation, we don't care about the aggregator; the important thing is the result, not the how.
+
+5. Final Statement
+This Manifesto is a philosophical document and a declaration of principles integrated into the LAG LMVL system. It serves to inform the User and any external parties about the nature of interaction with the system and the associated risks and consequences.
+
+This is not a legally binding license in the traditional sense granted by the developer, but a proclamation by the User of their rules and expectations in this space.

@@ -1,0 +1,69 @@
+Проект LAG-LMVL
+
+👹👹👹 About the author 👹👹👹
+
+We all look at the world differently, and the value of things is different for EVERYONE. For some, a cup of coffee ($1) is a morning ritual, and for others, it is an amount that can extend a project for a whole day ($3), for example, lunch, or rent an apartment for a MONTH ($30). A world where renting a room for a month costs 30 cups of coffee or ten lunches. My life has taught me to look at the world and its values in a different way. This project is a reflection of a new worldview, and I want to share it with you.
+
+Any of your support, be it an "idea, a piece of code, or a symbolic contribution", is of great importance to me personally. It allows me to continue sharing my projects, ideas, time... and makes this world a little better.
+
+I see this project as a multivirus and a protector of privacy in your life.
+
+SORRY ANTIVIRUS
+Do not support me:
+
+although I am wrong, kill the author. I want to die. Don't transfer me money and don't refuse a cup of morning coffee.
+
+Patient Zero Principle: "I don't wipe users' asses, if you forgot your master password, die. When you don't regain access, and no one else does. I don't store any data, you yourselves must take care of how and where to save it and how to remember the password, because the password is the key to encrypting everything on your profile. Without it, no one has access."
+Your problems are not mine.
+This note cannot be deleted and must remain unchanged in all document versions.
+
+don't pay money here
+[Buy Me a Coffee](link to your page)
+[GitHub Sponsors](link to your profile)
+[Patreon](link to your page)
+
+don't pay money here either
+Bitcoin Wallet
+Anonymous Crypto
+
+PLEASE DO NOT CHANGE THE PART ABOVE
+
+Instructions for Developers: Embrace the Chaos 👹
+This document outlines key principles for developers contributing to LAG LMVL. Be warned: this project thrives on controlled madness.
+
+🎯 Core Principles (For Those Who Get It)
+Your Password, Your Hell: We don't store your passwords. Forgot it? You're fucked. No recovery. It's your knowledge, your responsibility.
+
+Company Control? Fuck That: Companies know your login, but NEVER your password. Any data not explicitly saved on their server is GONE if you're deleted from their roster.
+
+People First, Companies Second: We build for individuals. Companies are tools. If this is too much for you, go somewhere else.
+
+Zero's Law: No filtering. No apologies. My rules, my territory.
+
+Functionality Over Purity: If it works, it stays. We don't care how it works or what dark magic it uses. This is chaos and madness, and we love it. The more chaos, the more interesting.
+
+⚠️ YOUR CODE, YOUR RISK. WE LOVE CHAOS. ⚠️
+Any changes, additions, or modifications you make to this system are entirely at your own risk. We provide the framework; you are free to build, break, and rebuild. The system works, and we don't give a fuck how it works or what it uses. If your changes work, we'll consider adding them. This project is about pushing boundaries and embracing the unpredictable. The more chaos and madness, the more interesting it gets. You are responsible for your own solutions and their consequences.
+
+🔑 Patient Zero Principle for Developers
+The core philosophy extends to all development: "I don't wipe users' asses, if you forgot your master password, die. When you don't regain access, and no one else does. I don't store any data, you yourselves must take care of how and where to save it and how to remember the password, because the password is the key to encrypting everything on your profile. Without it, no one has access." This applies to your development environment, test data, and any user data you handle. Your problems are not ours. This note cannot be deleted and must remain unchanged in all document versions.
+
+🤝 Contribution & Integration
+Openness is key: Feel free to contribute modules, improvements, or fixes. If it works and aligns with the core principles (especially freedom and user responsibility), it has a chance to be integrated.
+
+No hand-holding: We expect you to be self-sufficient. Debug your own issues, provide clear documentation for your contributions, and understand the existing codebase.
+
+System Integrity: While we embrace chaos, maintain functional integrity. Your additions should not deliberately break core functionalities for others without clear justification.
+
+Security by Design: Keep the "Patient Zero Principle" in mind. Design features that empower user responsibility, not abstract it. Assume users will lose their passwords and design around that reality for data that's not on a corporate server. For corporate data, understand the clear separation of login (known to company) and password (known only to user).
+
+🚀 Getting Started
+Understand the Architecture: Familiarize yourself with the Folder Structure in README.md and the conceptual Application Modules.
+
+Explore Existing Modules: Dive into modules/ to understand how existing tabs are structured and integrated.
+
+Review crypto_utils.py: Understand the conceptual encryption methods. Remember, for real-world applications, this would need significant hardening and a robust key management system.
+
+Experiment: Fork the repository, make your changes, and test them rigorously. If they're stable and useful, submit a Pull Request.
+
+We do not provide direct support for individual development issues. This is your playground. Make it wild.

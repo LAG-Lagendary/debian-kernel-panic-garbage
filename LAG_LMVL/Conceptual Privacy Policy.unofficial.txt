@@ -1,0 +1,17 @@
+LAG LMVL: Conceptual Privacy Policy
+We, the developers of LAG LMVL, declare:
+
+We do not collect anything and do not request anything. Your interaction with the application is completely decentralized.
+
+All your data is fully encrypted. We provide the encryption mechanism, but do not store any of your keys.
+
+Your data is only accessible to those who know your Nickname and Password. The Password is the direct key to encrypting your data. The longer and more complex your password, the more secure your data.
+
+You are fully and solely responsible for your Password. Forget it - and your data will be irretrievably lost. We do not provide any means to restore access or data.
+
+We do not care about aggregators. The principle of the system: we send data, the upstream platform invisibly confirms, we receive confirmation. We do not care about the aggregator; only the result is important, not the way to achieve it.
+
+Unauthorized Access Monitoring and Jurisdictional Liability:
+LAG LMVL can record unauthorized access attempts, including rooting the device. If such an attempt is made in one country, and the user's data or their contacts (citizens of another country) are protected by stricter privacy laws in their jurisdiction, and the access was obtained without a corresponding court order, the system can record this fact. The user, based on their philosophy, will have the opportunity to disseminate information about such an incident in the public domain and send it to international bodies such as Interpol, since actions that are not an offense in one country may be a criminal offense in another. The application automatically prepares reports for sending to the appropriate law enforcement agencies and Interpol at the user's discretion if viewing the confidential information of citizens, including rooting, is a criminal offense in their country.
+
+Use the application at your own risk. Your problems are your problems.
