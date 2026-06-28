@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LAG_LMVL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TRX-TK7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/music-BOX" vcs="Git" />
   </component>
 </project>
